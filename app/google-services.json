@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "115122527117",
+    "firebase_url": "https://joketellingapp-ecb86.firebaseio.com",
+    "project_id": "joketellingapp-ecb86",
+    "storage_bucket": "joketellingapp-ecb86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115122527117:android:12c18d2b1637806f",
+        "android_client_info": {
+          "package_name": "com.joketellingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115122527117-ml5mrbvi6mpd6jvbvbhcd2m1mtp1f92u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCC8npNjDWSDyaSZwbw_bnByu9NAyXYeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
