@@ -7,7 +7,7 @@ A Google Cloud Endpoints (GCE) project that serves those jokes
 An Android Library containing an activity for displaying jokes
 An Android app that fetches jokes from the GCE module and passes them to the Android Library for display
 Project contains a Java library for supplying jokes.
-![alt tag](https://cloud.githubusercontent.com/assets/15712720/25318842/18bf0508-284b-11e7-9956-fb01fb3c301d.png)
+![alt tag](https://github.com/girish12ramesh/Joke-Telling/blob/master/joke.png)
 
 # Features
 
